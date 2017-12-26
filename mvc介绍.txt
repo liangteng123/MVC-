@@ -1,2 +1,3 @@
-�����ϴ���Ŀ
+大神总结的mvc，仿照thinkPHP3.2；
+上传测试
 github
